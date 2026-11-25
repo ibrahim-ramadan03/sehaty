@@ -152,9 +152,6 @@ function App() {
   return (
     <div className="app-shell" dir="rtl">
       <div className="announcement">
-        <span className="announcement-dot" />
-        <span>صحتك أقرب مما تتخيل — اكتشف خدمات صحية موثوقة في مدينتك</span>
-        <ArrowLeft size={14} aria-hidden="true" />
       </div>
 
       <header className="site-header">
